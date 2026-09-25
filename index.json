@@ -1,1 +1,19 @@
-
+{
+  "spec": 1,
+  "name": "Silksong V2",
+  "previewText": "Silksong V2 Font, inspired by Hollow Knight: Silksong",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "ggsans-Bold": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "ggsans-ExtraBold": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "ggsans-Medium": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "ggsans-Normal": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "ggsans-Semibold": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "NotoSans-Bold": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "NotoSans-ExtraBold": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "NotoSans-Medium": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "NotoSans-Normal": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "NotoSans-Semibold": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "ggmono-Normal": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf"
+  }
+}
